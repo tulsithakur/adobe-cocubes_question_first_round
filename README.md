@@ -1,4 +1,4 @@
-# shecodes_question_first_round
+# adobe-cocubes_first_round
 #include<stdio.h>
 #include<conio.h>
 void main()
